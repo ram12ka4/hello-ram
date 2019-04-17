@@ -6,6 +6,9 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World from master");
 		System.out.println("Hello World from krishna");
+		System.out.println("Hello World from krishna");
+		System.out.println("Hello World from krishna");
+		System.out.println("Hello World from krishna");
 	}
 
 }
